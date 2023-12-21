@@ -14,17 +14,18 @@
   - [Run tests](#run-tests)
 - [👥 Author](#author)
 - [🔭 Future Features](#future-features)
+- [🔭 Link to React App](#react-app)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Budget App <a name="about-project"></a>
+# 📖 HELLO-RAILS-BACKEND <a name="about-project"></a>
 
-**Budget App** is a Ruby on Rails mobile web app, streamlines budget management. Users can register and log in to keep their financial data private. It enables tracking transactions by categories, offering a clear spending overview. With a user-friendly interface, it efficiently helps users manage their budgets.
+**HELLO-RAILS-BACKEND** This repository contains the source code for a Rails API application named 'hello-rails-back-end'. It includes initialization with Git, Postgres database setup, a table for storing greetings, and an API endpoint that selects and returns a random greeting from the table.
 
 ## 🛠 Built With <a name="built-with"></a>
-Ruby on Rails, Visual Studia Code, WSL,CSS, HTML, PostgreSQL, Rspec, Capybara, Rubocop, Git.
+Ruby on Rails, Visual Studia Code, WSL,CSS, HTML, PostgreSQL, Rspec, Rubocop, Git.
 
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -35,15 +36,14 @@ Ruby on Rails, Visual Studia Code, WSL,CSS, HTML, PostgreSQL, Rspec, Capybara, R
 
 ### Key Features <a name="key-features"></a>
 
-- **Secure User Registration and Login**
-- **Categorized Transaction Tracking**
-- **User-Friendly Interface**
+- **Implements a Postgres database table for storing greetings, allowing easy retrieval of different greetings.**
+- **Provides an API endpoint that selects a random greeting from the database table, enhancing the versatility of the greetings served.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- No Live Demo Available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,12 +70,10 @@ bundle install
 
 ### Run tests <a name="run tests"></a>
 
-To test, run:
 
 ```
-rspec
+No tests available
 ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
@@ -87,9 +85,11 @@ rspec
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Advanced Reporting and Analytics**
-- **Goal Setting and Tracking**
-- **Integration with Financial Institutions:**
+- **User Authentication**
+- **Localization Suppor**
+
+## 🔭 Link to React App <a name="react-link"></a>
+Please click [here](https://github.com/ngalamac/hello-react-front-end.git) to see the React App that consumes this API.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +109,7 @@ Kindly give this project a star if you like it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Gregoire Vella](https://www.behance.net/gregoirevella) for the original [Design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding) on Behance.
+I would like to thank my coding partners for the support they gave me
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
