@@ -53,7 +53,7 @@ Ruby on Rails, Visual Studia Code, WSL,CSS, HTML, PostgreSQL, Rspec, Rubocop, Gi
 
 In order to use this project.. Clone this repository to your desired folder by pasting this command in your command line interface:
 
-  https://github.com/ngalamac/BudgetApp-rails.git
+git clone  https://github.com/ngalamac/hello-rails-back-end.git
 
 ### Prerequisites <a name="prerequisites"></a>
 
